@@ -5,7 +5,7 @@
 	<groupId>cc.alessandro</groupId>
 	<artifactId>jpocket</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0-SNAPSHOST</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<inceptionYear>2012</inceptionYear>
 
 	<description>
@@ -31,6 +31,10 @@
 			<name>Alessandro Ferreira Leite</name>
 			<email>alessandro.leite@alessandro.cc</email>
 			<timezone>+5</timezone>
+		</developer>
+		<developer>
+			<id>t0n0</id>
+			<name>t0n0</name>
 		</developer>
 	</developers>
 
@@ -327,13 +331,13 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<source.version>1.6</source.version>
+		<source.version>1.7</source.version>
 		<aspectj.version>1.6.11</aspectj.version>
-		<guava.version>13.0</guava.version>
+		<guava.version>18.0</guava.version>
 		<mirror.version>1.5</mirror.version>
-		<joda-time.version>1.6.2</joda-time.version>
-		<httpcore.version>4.2.2</httpcore.version>
-		<httpcomponents.version>4.2.1</httpcomponents.version>
-		<gson.version>1.7.1</gson.version>
+		<joda-time.version>2.7</joda-time.version>
+		<httpcore.version>4.4.1</httpcore.version>
+		<httpcomponents.version>4.4.1</httpcomponents.version>
+		<gson.version>2.3.1</gson.version>
 	</properties>
 </project>
